@@ -1,6 +1,6 @@
 # European Space Week (EUSW) Hackathon 2019
 
-![EventBanner](https://github.com/WEkEO/Climathon/blob/master/EUSWHackathon_2019.png)
+![EventBanner](https://github.com/WEkEO/ESW2019-Hackathon/blob/master/EUSWHackathon_2019.png)
 
 The European Space Week (EUSW) will take place in Helsinki (Finland) on 3-5 December. The EUSW is an international event for European space programs in which policy makers, space experts and user communities participate. WEkEO will be present at the General Assembly and the EUSW Hackathon.
 
