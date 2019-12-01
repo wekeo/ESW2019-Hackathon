@@ -74,8 +74,6 @@ There are 4 different modes of operation for Sentinel-1. The Sentinel-1 data ava
 
 **Sentinel-2**
 
-Sentinel-2 is an
-
 |  Dataset Name | Dataset ID | Geo Coverage   | Time Coverage  | Resolution   |  Format |  
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
 |Sentinel-2 Level-1C MultiSpectral Instrument (MSI) | EO:ESA:DAT:SENTINEL-2:MSI1C | Global | Global | 03/04/2014 to now | No info | .tiff compressed in .zip | 
@@ -201,9 +199,6 @@ https://www.copernicus.eu/en/european-drought-observatory
 
 • ESA Thematic Areas - Emergency Management
 https://sentinel.esa.int/web/sentinel/thematic-areas/emergency-management
-
-• ESA Thematic Areas - Emergency Management
-https://step.esa.int/main/toolboxes/snap/
 
 • GDAL
 https://gdal.org/
