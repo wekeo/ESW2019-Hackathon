@@ -106,9 +106,9 @@ Some examples that might be useful are included below.
 
 **WEkEO Guides to data access** 
 
-How-to guides about the Dataset Navigator and Harmonized Data Access can be found at: https://www.wekeo.eu/documentation/accessing_data
+• How-to guides about the Dataset Navigator and Harmonized Data Access can be found at: https://www.wekeo.eu/documentation/accessing_data
 
-Step-by-step explanations about Jupyter Notebooks in WEkEO: 
+• Step-by-step explanations about Jupyter Notebooks in WEkEO: 
 https://www.wekeo.eu/documentation/using_jupyter_notebooks
 
 
@@ -150,7 +150,7 @@ In case you want to find more information about marine products:
 
 # Processing Resources <a name="data"></a>
 
-**SSH access** 
+• **SSH access** 
 
 Each team will be given a username and password to access a Virtual Machine (VM) on WEkEO using Linux commands.
 An example on how to access a VM through SSH can be seen below:
@@ -158,11 +158,26 @@ An example on how to access a VM through SSH can be seen below:
 ![Imagessh](https://github.com/WEkEO/ESW2019-Hackathon/blob/master/github_eusw2019_hackathon_ssh_example.png)
 
 
-**Guacamole access** 
+• **Guacamole access** 
 
-Each
+Each team will also be given a username and password to access the graphical interface of a WEkEO Virtual Machine (VM).
+To access that VM:
+1) Open your browser and type the following IP address: 163.165.212.28
+2) You will be asked for the Guacamole username and password
+3) You can access the graphical interface. 
 
+![Imagessh](https://github.com/WEkEO/ESW2019-Hackathon/blob/master/github_eusw2019_guacamole_access.png)
+
+In the desktop you will see that there are some pre-installed Earth Observation (EO) tools, such as QGIS and SNAP.
+
+More information about these EO tools can be found at:
+
+• QGIS
+https://qgis.org/en/site/
+
+• SNAP
 https://step.esa.int/main/toolboxes/snap/
+
 
 # Useful Links <a name="useful"></a>
 
@@ -201,9 +216,6 @@ https://jupyter.org/
 
 • Panoply
 https://www.giss.nasa.gov/tools/panoply/
-
-• QGIS
-https://qgis.org/en/site/
 
 • SciPy
 https://www.scipy.org/
