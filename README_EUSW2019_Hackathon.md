@@ -20,7 +20,8 @@ WEkEO webinar for the event: https://www.youtube.com/watch?v=gS-yWWKsaF0
 2. [Platform offering](#platform)  
 3. [Dataset offering](#datasets)
 4. [Data Access](#data)
-5. [Useful Links](#useful)
+5. [Processing Resources](#processingresources)
+6. [Useful Links](#useful)
 
 
 # The Challenge: European Emergency Apps <a name="challenge"></a>
@@ -113,6 +114,8 @@ Some examples that might be useful are included below.
 
 **Copernicus Climate Data Store (CDS) Access** 
 
+**Copernicus Climate Data Store (CDS) Access** 
+
 https://cds.climate.copernicus.eu/#!/home
 
 The Climate Data Store Application Program Interface (CDS) provides programmatic access to CDS data. 
@@ -148,6 +151,18 @@ In case you want to find more information about marine products:
 • Self-register at http://marine.copernicus.eu/services-portfolio/register-now/
 
 • Login at http://marine.copernicus.eu/services-portfolio/access-to-products/?option=com_csw&view=account
+
+
+
+
+# Processing Resources <a name="data"></a>
+
+**SSH access** 
+
+Each team will be given a username and password to access a Virtual Machine (VM) on WEkEO using Linux commands.
+An example on how to access a VM through SSH can be seen below:
+
+![Imagessh](https://github.com/WEkEO/ESW2019-Hackathon/blob/master/EUSWHackathon_2019.png)
 
 
 
