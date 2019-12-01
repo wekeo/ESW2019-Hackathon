@@ -45,14 +45,8 @@ Extent of damages caused by landslides can be mapped with satellite data.
 WEkEO is a Data and Information Access System (DIAS) that provides access to Copernicus data and cloud-based processing resources. You can access WEkEO at https://www.wekeo.eu/
 
 As a participant of the Copernicus Hackathon & Climathon you are offered:
-- Essential access to Copernicus Data and Jupyter Notebooks.
-- Advanced access to a Virtual Machine in the WEkEO cloud infrastructure so that you can process the data.
-
-
-SSH Access 
-
-
-
+- Essential access to Copernicus Data and Jupyter Notebooks. See "Dataset offering" for more information.
+- Advanced access to a Virtual Machine in the WEkEO cloud infrastructure so that you can process the data. See "Processing resources" for more information.
 
 
 
@@ -60,9 +54,7 @@ SSH Access
 
 Some examples of the different types of datasets available at WEkEO are listed below. This is a very small sample of the type of data that you can find on WEkEO related to Emergency Management. 
 
-
 You can browse the WEkEO datasets catalogue and download data at https://www.wekeo.eu/dataset-navigator/start
-
 
 
 **Sentinel-1**
@@ -112,7 +104,13 @@ Some examples that might be useful are included below.
 
 # Data Access <a name="data"></a>
 
-**Copernicus Climate Data Store (CDS) Access** 
+**WEkEO Guides to data access** 
+
+How-to guides about the Dataset Navigator and Harmonized Data Access can be found at: https://www.wekeo.eu/documentation/accessing_data
+
+Step-by-step explanations about Jupyter Notebooks in WEkEO: 
+https://www.wekeo.eu/documentation/using_jupyter_notebooks
+
 
 **Copernicus Climate Data Store (CDS) Access** 
 
@@ -121,14 +119,12 @@ https://cds.climate.copernicus.eu/#!/home
 The Climate Data Store Application Program Interface (CDS) provides programmatic access to CDS data. 
 
 • Self-register at https://cds.climate.copernicus.eu/user/register?destination=%2F%23!%2Fhome
-
 • Login at https://cds.climate.copernicus.eu/user/login?destination=%2F%23!%2Fhome
 
 
 If you are using Linux
 
 • Install the CDS API key: 
-
 Copy in the file $HOME/.cdsapirc (in your Unix/Linux environment):
 url: https://cds.climate.copernicus.eu/api/v2
 key: {uid}:{api-key}
@@ -136,9 +132,7 @@ key: {uid}:{api-key}
 
 • Install the CDS API client
 
-The CDS API client is a python based library. It provides support for both Python 2.7.x and Python 3.
-
-You can Install the CDS API client via the package management system pip, by running on Unix/Linux the following command: $ pip install cdsapi
+The CDS API client is a python based library. It provides support for both Python 2.7.x and Python 3. You can Install the CDS API client via the package management system pip, by running on Unix/Linux the following command: $ pip install cdsapi
 
 If you are using Windows or macOS, you can find more information at:
 https://cds.climate.copernicus.eu/api-how-to#install-the-cds-api-key
@@ -149,7 +143,6 @@ https://cds.climate.copernicus.eu/api-how-to#install-the-cds-api-key
 In case you want to find more information about marine products:
 
 • Self-register at http://marine.copernicus.eu/services-portfolio/register-now/
-
 • Login at http://marine.copernicus.eu/services-portfolio/access-to-products/?option=com_csw&view=account
 
 
@@ -162,9 +155,14 @@ In case you want to find more information about marine products:
 Each team will be given a username and password to access a Virtual Machine (VM) on WEkEO using Linux commands.
 An example on how to access a VM through SSH can be seen below:
 
-![Imagessh](https://github.com/WEkEO/ESW2019-Hackathon/blob/master/EUSWHackathon_2019.png)
+![Imagessh](https://github.com/WEkEO/ESW2019-Hackathon/blob/master/github_eusw2019_hackathon_ssh_example.png)
 
 
+**Guacamole access** 
+
+Each
+
+https://step.esa.int/main/toolboxes/snap/
 
 # Useful Links <a name="useful"></a>
 
