@@ -26,7 +26,7 @@ WEkEO webinar for the event: https://www.youtube.com/watch?v=gS-yWWKsaF0
 
 # The Challenge: European Emergency Apps <a name="challenge"></a>
 
-Related topics to the challenge are:
+Some examples of topics related to the challenge are:
 
 ### * Floods
 In recent years, floods have become more frequent due to the increase of intense meteorological event.
